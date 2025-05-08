@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@import url('https://fonts.googleapis.com/css2?family=Klee+One&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: black;
+  color: white;
+}
+
+:root{
+  --primary:#ffd700;
+  --secondary:#353839;
+  --background:#F5F5F5;
+  --orange:#FFA570;
+  --tertiary:#9EC5AB;
+
+}
