@@ -9,7 +9,7 @@
 }
 
 body{
-  background-color: black;
+  background-color:var(--secondary);
   color: white;
 }
 
@@ -18,6 +18,6 @@ body{
   --secondary:#353839;
   --background:#F5F5F5;
   --orange:#FFA570;
-  --tertiary:#9EC5AB;
+  --blue:#30bdf9;
 
 }
