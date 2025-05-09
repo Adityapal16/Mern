@@ -4,8 +4,6 @@
 
 @import "tw-animate-css";
 
-@custom-variant dark (&:is(.dark *));
-
 *{
   margin: 0;
   padding: 0;
@@ -18,10 +16,14 @@ body{
 }
 
 :root{
-  --primary: oklch(0.205 0 0);
-  --secondary: oklch(0.97 0 0);
-  --orange:#FFA570;
-  --blue:#30bdf9;
+  --pehla: #fcf300;
+  --dusra: #E2E1E1;
+  --tisra:#A2D6F9;
+  --goldy:#FFC600;
+  --nila:#1e96fc;
+  --bluebee: #072AC8;
+  --blacky:#474747;
+  --whity:#F3F3F3;
 
 }
 
