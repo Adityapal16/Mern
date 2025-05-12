@@ -6,7 +6,7 @@ const Register = () => {
 
 <div>
          <div className="bg-white flex items-center justify-center min-h-screen p-4">
-      <div className="bg-gray-200 rounded-lg border border-gray-400 shadow-[8px_8px_15px_rgba(0,0,0,0.15)] p-8 max-w-xs w-[18rem] h-95 ">
+      <div className="bg-[var(--whity)] rounded-lg border scale-110 shadow-[8px_8px_15px_rgba(0,0,0,0.15)] p-8 max-w-xs w-[18rem] h-95 ">
         <h1 className="text-black font-extrabold text-xl text-center mb-1 font-">
           NEW USER, REGISTER
         </h1>
